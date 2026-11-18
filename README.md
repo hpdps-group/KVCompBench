@@ -18,9 +18,9 @@ The ongoing work lives in the **[KVCompBench-lossless branch](https://github.com
 
 The current public release is an **FP8 lossless compression study and its figures**; a reusable benchmark harness and full machine-readable results are still planned for release, rather than already available in this repository.
 
-**Project website:** [KVCompBench](https://hpdps-group.github.io/KVCompBench/)
+**Project website:** [KVCompBench](https://hpdss-group.github.io/KVCompBench/)
 
-**First study:** [Lossless Compression of FP8 KV Caches: What Actually Helps?](https://hpdps-group.github.io/KVCompBench/blog/fp8-lossless-2026/)
+**First study:** [Lossless Compression of FP8 KV Caches: What Actually Helps?](https://hpdss-group.github.io/KVCompBench/blog/fp8-lossless-2026/)
 
 ## Roadmap
 
